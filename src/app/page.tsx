@@ -15,7 +15,7 @@ export default function Home() {
         <div className="container mx-auto flex flex-col items-center text-center">
           <h1 className="text-5xl font-bold mb-4">WELCOME TO MY PORTFOLIO</h1>
           <span className="text-xl font-serif text-red-800">A WEB DEVELOPER</span>
-          <p className="text-lg mb-8">I’m a developer passionate about creating beautiful web experiences.</p>
+          <p className="text-lg mb-8">I am a developer passionate about creating beautiful web experiences.</p>
           <a
             href="#about"
             className="bg-white text-blue-400 px-6 py-3 rounded-full font-semibold hover:bg-gray-200 transition"
@@ -39,10 +39,10 @@ export default function Home() {
       {/* About Section */}
       <section id="about" className="py-20">
         <div className="container mx-auto flex flex-col items-center text-center">
-          <h2 className="text-3xl font-semibold mb-4">Hello, I'm Arifa Rubab</h2>
+          <h2 className="text-3xl font-semibold mb-4">Hello I am Arifa Rubab</h2>
           <p className="text-lg text-gray-700 max-w-2xl">
-            I'm a passionate developer with experience in building responsive and user-friendly websites and applications.
-            I love working with modern web technologies like Next.js, React, and Tailwind CSS to bring ideas to life.
+            I am a passionate developer with experience in building responsive and user friendly websites and applications.
+            I love working with modern web technologies like Next.js React and Tailwind CSS to bring ideas to life.
           </p>
         </div>
       </section>

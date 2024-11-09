@@ -12,7 +12,7 @@ export default function Contact() {
         <div className="container mx-auto flex flex-col items-center text-center">
           <h2 className="text-3xl font-semibold mb-6 text-blue-800">Get in Touch</h2>
           <p className="text-lg text-gray-700 max-w-2xl mb-8">
-            I'd love to hear from you! Whether you have a question, a project idea, or just want to connect, feel free to reach out.
+            I had love to hear from you. Whether you have a question a project idea or just want to connect feel free to reach out.
           </p>
   
           {/* Contact Button */}

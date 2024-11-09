@@ -9,10 +9,10 @@ export default function About() {
             <Header />
       <section id="about" className="py-20 bg-gray-100">
         <div className="container mx-auto flex flex-col items-center text-center">
-          <h2 className="text-3xl font-semibold mb-6">Hello, I'm Arifa Rubab</h2>
+          <h2 className="text-3xl font-semibold mb-6">Hello I am Arifa Rubab</h2>
           <p className="text-lg text-gray-700 max-w-3xl mb-8">
-            I’m a passionate web developer with experience in building responsive, user-friendly websites and applications.
-            I specialize in modern web technologies like Next.js, React, and Tailwind CSS, aiming to create beautiful, functional experiences.
+            I am a passionate web developer with experience in building responsive, user friendly websites and applications.
+            I specialize in modern web technologies like Next.js React and Tailwind CSS aiming to create beautiful functional experiences.
           </p>
           
           <div className="flex justify-center space-x-6">
@@ -49,7 +49,7 @@ export default function About() {
   
   
           <p className="text-md text-gray-600 mt-6">
-            Feel free to connect with me on LinkedIn or Facebook to discuss projects or collaborations. Let's bring your ideas to life!
+            Feel free to connect with me on LinkedIn or Facebook to discuss projects or collaborations. Lets bring your ideas to life.
           </p>
         </div>
       </section>
